@@ -1,4 +1,6 @@
-package com.jeiker.thread;
+package com.jeiker.run;
+
+import com.jeiker.thread.Thread2;
 
 /**
  * 线程执行具有随机性，CPU执行哪个线程具有不确定性。

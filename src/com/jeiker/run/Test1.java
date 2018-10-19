@@ -1,4 +1,6 @@
-package com.jeiker.thread;
+package com.jeiker.run;
+
+import com.jeiker.thread.Thread1;
 
 /**
  * 结果：
