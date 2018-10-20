@@ -1,4 +1,4 @@
-package com.jeiker.thread;
+package com.jeiker.t2;
 
 public class Thread2 extends Thread {
 

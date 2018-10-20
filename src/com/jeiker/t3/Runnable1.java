@@ -1,4 +1,4 @@
-package com.jeiker.thread;
+package com.jeiker.t3;
 
 public class Runnable1 implements Runnable {
 

@@ -1,6 +1,4 @@
-package com.jeiker.run;
-
-import com.jeiker.thread.Runnable1;
+package com.jeiker.t3;
 
 /**
  * 实现Runnable接口

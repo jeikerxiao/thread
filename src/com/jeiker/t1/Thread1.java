@@ -1,4 +1,4 @@
-package com.jeiker.thread;
+package com.jeiker.t1;
 
 public class Thread1 extends Thread {
     @Override

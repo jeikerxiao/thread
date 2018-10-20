@@ -1,6 +1,4 @@
-package com.jeiker.run;
-
-import com.jeiker.thread.Thread1;
+package com.jeiker.t1;
 
 /**
  * 结果：
@@ -14,7 +12,5 @@ public class Test1 {
         Thread1 thread = new Thread1();
         thread.start();
         System.out.println("运行结束！");
-
-
     }
 }
